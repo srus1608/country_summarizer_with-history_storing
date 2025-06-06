@@ -36,11 +36,11 @@ python app.py
 ## 🎥 Demo
 "Explore countries 🌍, summarize in a click 🧠, and track history like a pro 📜."
 
-http://127.0.0.1:5000/fetch-country?name=India
-http://127.0.0.1:5000/generate-summary/population?name=India
-http://127.0.0.1:5000/generate-summary/tourists?name=India
-http://127.0.0.1:5000/generate-summary/import_export?name=India
-http://127.0.0.1:5000/chat-history
+- http://127.0.0.1:5000/fetch-country?name=India
+- http://127.0.0.1:5000/generate-summary/population?name=India
+- http://127.0.0.1:5000/generate-summary/tourists?name=India
+- http://127.0.0.1:5000/generate-summary/import_export?name=India
+- http://127.0.0.1:5000/chat-history
 
 ## 🌟 Support & Star!
 If you like this project, please give it a ⭐️ on GitHub — it motivates me to bring more creative AI tools to life! 🙌
